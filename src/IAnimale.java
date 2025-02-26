@@ -13,8 +13,8 @@ Scrivere un programma che istanzi animali che volano o nuotano e richiamare i me
 
 interface IAnimale {
 
-    public void vola();
+    public void volare();
 
-    public void nuota();
+    public void nuotare();
     
 }

@@ -4,15 +4,15 @@ public class IVolanteAnimale implements IAnimale{
         
     }
 
-    public void faiVolare(IVolanteAnimale animale){
-        animale.vola();
+    public void faVolare(IVolanteAnimale animale){
+        animale.volare();
     }
 
-    public void vola(){
+    public void volare(){
         System.out.println("Sto volando!!!");
     }
 
-    public void nuota(){
+    public void nuotare(){
 
     }
     

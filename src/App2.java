@@ -15,9 +15,9 @@ public class App2 {
     public static void main(String[] args) {
         IVolanteAnimale falco = new IVolanteAnimale();
         //IAnimale delfino = new INuotanteAnimale();
-        INuotanteAnimale delfino = new INuotanteAnimale();
-        falco.faiVolare(falco);
-        delfino.faiNuotare(delfino);
+        INuotanteAnimale delfino2 = new INuotanteAnimale();
+        //falco.faVolare(falco);
+        //delfino2.faNuotare(delfino2);
         
     }
 
